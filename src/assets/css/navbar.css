@@ -1,0 +1,10 @@
+header{
+    background-color: rgb(211, 205, 205);
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.nav-active{
+    color: green;
+}
